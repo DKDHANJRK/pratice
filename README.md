@@ -1,4 +1,4 @@
-# pratice
+# 스타일헬퍼
 ## 연결링크
 ### syntax: [앱인벤터2](http://ai2.appinventor.mit.edu/?locale=en#6317293257752576)
 ### syntax: [유투브]()
