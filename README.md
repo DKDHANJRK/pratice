@@ -1,5 +1,3 @@
 # pratice
-한글도 되나?
->어디보자
-----------------------
-syntax: [STYLEHELPER](http://ai2.appinventor.mit.edu/?locale=en#6317293257752576)
+syntax: [앱인벤터2](http://ai2.appinventor.mit.edu/?locale=en#6317293257752576)
+ #아아아
